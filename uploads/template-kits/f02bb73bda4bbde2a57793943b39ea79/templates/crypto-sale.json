@@ -1,0 +1,2407 @@
+{
+    "version": "0.4",
+    "title": "Crypto Sale",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "4749748",
+            "settings": {
+                "gap": "wider",
+                "height": "min-height",
+                "background_background": "classic",
+                "pa_condition_repeater": [
+                    {
+                        "_id": "b7944bd"
+                    }
+                ],
+                "__globals__": {
+                    "background_color": "globals\/colors?id=primary",
+                    "background_overlay_color": "globals\/colors?id=primary",
+                    "background_overlay_color_b": "globals\/colors?id=secondary"
+                },
+                "background_image": {
+                    "url": "http:\/\/templatekit.puriwp.com\/iddax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-K4VU8JA.jpg",
+                    "id": 143,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "gradient",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.90000000000000002220446049250313080847263336181640625,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "-125",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "90",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_xpos": {
+                    "unit": "px",
+                    "size": -607,
+                    "sizes": []
+                },
+                "background_attachment": "fixed",
+                "background_overlay_color_stop": {
+                    "unit": "%",
+                    "size": 36,
+                    "sizes": []
+                },
+                "background_overlay_gradient_angle": {
+                    "unit": "deg",
+                    "size": 40,
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "266fbed",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "b64063a"
+                            }
+                        ],
+                        "margin": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "20",
+                            "bottom": "0",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3ec2d977",
+                            "settings": {
+                                "title": "Crypto Sale",
+                                "header_size": "h1",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "125b430"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=0c613fd"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "align": "center",
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4d7622a3",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus<\/p>",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "5289267"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=0c613fd"
+                                },
+                                "align": "center",
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "24bc808e",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "94",
+                    "right": "0",
+                    "bottom": "94",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "7611320"
+                    }
+                ],
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "48",
+                    "right": "0",
+                    "bottom": "48",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "714f75a",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "15154cf"
+                            }
+                        ],
+                        "align": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "4092665f",
+                            "settings": {
+                                "title": "crypto sell",
+                                "header_size": "div",
+                                "align": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "15",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_element_width": "auto",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "c92c496"
+                                    }
+                                ],
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=accent",
+                                    "typography_typography": "globals\/typography?id=9f7c242"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1ff7bc0b",
+                            "settings": {
+                                "title": "Choose Your Crypto Asset",
+                                "align": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "15",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "2c1d8ec"
+                                    }
+                                ],
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "50cd1c9b",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ut libero malesuada feugiat.<\/p>",
+                                "align": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "25",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "%",
+                                    "size": 63,
+                                    "sizes": []
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "d6f952c"
+                                    }
+                                ],
+                                "_animation": "fadeInDown",
+                                "_element_custom_width_mobile": {
+                                    "unit": "px",
+                                    "size": 317,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1d1e4a29",
+                            "settings": {
+                                "gap": "wider",
+                                "structure": "30",
+                                "background_background": "classic",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "35f3530"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=a10680d"
+                                },
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "20",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "15df40d5",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "background_background": "classic",
+                                        "background_hover_background": "classic",
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "78b159a"
+                                            }
+                                        ],
+                                        "__globals__": {
+                                            "background_color": "globals\/colors?id=a10680d",
+                                            "background_hover_color": "globals\/colors?id=3335a43"
+                                        },
+                                        "animation": "fadeInDown"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3d766e07",
+                                            "settings": {
+                                                "ccew_widget_type": "label",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "e144c4f"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "ccew_primary_color": "globals\/colors?id=primary",
+                                                    "ccew_secondary_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "cryptocurrency-elementor-widget",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "10bd829f",
+                                            "settings": {
+                                                "editor": "<p>Quisque velit nisi, pretium ut lacinia<\/p>",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "6f373e5"
+                                                    }
+                                                ],
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "38c5c38a",
+                                            "settings": {
+                                                "text": "Sell Now",
+                                                "size": "xs",
+                                                "_element_width": "auto",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "2ecda3b"
+                                                    }
+                                                ],
+                                                "align_mobile": "center",
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "15",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width_mobile": "inherit"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "34d9e9c3",
+                                            "settings": {
+                                                "text": "Buy Now",
+                                                "size": "xs",
+                                                "selected_icon": {
+                                                    "value": "icon icon-arrow-right",
+                                                    "library": "ekiticons"
+                                                },
+                                                "icon_align": "right",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "hover_animation": "float",
+                                                "text_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width": "auto",
+                                                "_element_vertical_align": "center",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "ec62e12"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "background_color": "globals\/colors?id=a10680d",
+                                                    "button_text_color": "globals\/colors?id=accent",
+                                                    "hover_color": "globals\/colors?id=921fa16"
+                                                },
+                                                "align_mobile": "center",
+                                                "_element_width_mobile": "inherit"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "7bd46f3",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "background_hover_background": "classic",
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "11f0efb"
+                                            }
+                                        ],
+                                        "__globals__": {
+                                            "background_hover_color": "globals\/colors?id=3335a43",
+                                            "background_color": "globals\/colors?id=1bb216a"
+                                        },
+                                        "animation": "fadeInDown"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5324ae46",
+                                            "settings": {
+                                                "ccew_widget_type": "label",
+                                                "ccew_select_coins": "ethereum",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "e144c4f"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "ccew_primary_color": "globals\/colors?id=primary",
+                                                    "ccew_secondary_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "cryptocurrency-elementor-widget",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3ee7c75",
+                                            "settings": {
+                                                "editor": "<p>Quisque velit nisi, pretium ut lacinia<\/p>",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "6f373e5"
+                                                    }
+                                                ],
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1f00f940",
+                                            "settings": {
+                                                "text": "Sell Now",
+                                                "size": "xs",
+                                                "_element_width": "auto",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "2ecda3b"
+                                                    }
+                                                ],
+                                                "align_mobile": "center",
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "15",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width_mobile": "inherit"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2ab2c528",
+                                            "settings": {
+                                                "text": "Buy Now",
+                                                "size": "xs",
+                                                "selected_icon": {
+                                                    "value": "icon icon-arrow-right",
+                                                    "library": "ekiticons"
+                                                },
+                                                "icon_align": "right",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "hover_animation": "float",
+                                                "text_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width": "auto",
+                                                "_element_vertical_align": "center",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "ec62e12"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "background_color": "globals\/colors?id=a10680d",
+                                                    "button_text_color": "globals\/colors?id=accent",
+                                                    "hover_color": "globals\/colors?id=921fa16"
+                                                },
+                                                "align_mobile": "center",
+                                                "_element_width_mobile": "inherit"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "76bdfbd5",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "background_hover_background": "classic",
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "11f0efb"
+                                            }
+                                        ],
+                                        "__globals__": {
+                                            "background_hover_color": "globals\/colors?id=3335a43"
+                                        },
+                                        "animation": "fadeInDown"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "21f61b87",
+                                            "settings": {
+                                                "ccew_widget_type": "label",
+                                                "ccew_select_coins": "cardano",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "e144c4f"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "ccew_primary_color": "globals\/colors?id=primary",
+                                                    "ccew_secondary_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "cryptocurrency-elementor-widget",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3e79255c",
+                                            "settings": {
+                                                "editor": "<p>Quisque velit nisi, pretium ut lacinia<\/p>",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "6f373e5"
+                                                    }
+                                                ],
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "55932adc",
+                                            "settings": {
+                                                "text": "Sell Now",
+                                                "size": "xs",
+                                                "_element_width": "auto",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "2ecda3b"
+                                                    }
+                                                ],
+                                                "align_mobile": "center",
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "15",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width_mobile": "inherit"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1c7f282",
+                                            "settings": {
+                                                "text": "Buy Now",
+                                                "size": "xs",
+                                                "selected_icon": {
+                                                    "value": "icon icon-arrow-right",
+                                                    "library": "ekiticons"
+                                                },
+                                                "icon_align": "right",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "hover_animation": "float",
+                                                "text_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width": "auto",
+                                                "_element_vertical_align": "center",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "ec62e12"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "background_color": "globals\/colors?id=a10680d",
+                                                    "button_text_color": "globals\/colors?id=accent",
+                                                    "hover_color": "globals\/colors?id=921fa16"
+                                                },
+                                                "align_mobile": "center",
+                                                "_element_width_mobile": "inherit"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "67d3eee3",
+                            "settings": {
+                                "gap": "wider",
+                                "structure": "30",
+                                "background_background": "classic",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "35f3530"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=a10680d"
+                                },
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "20",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "704e013c",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "background_background": "classic",
+                                        "background_hover_background": "classic",
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "78b159a"
+                                            }
+                                        ],
+                                        "__globals__": {
+                                            "background_color": "globals\/colors?id=a10680d",
+                                            "background_hover_color": "globals\/colors?id=3335a43"
+                                        },
+                                        "animation": "fadeInDown"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2abbac85",
+                                            "settings": {
+                                                "ccew_widget_type": "label",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "e144c4f"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "ccew_primary_color": "globals\/colors?id=primary",
+                                                    "ccew_secondary_color": "globals\/colors?id=primary"
+                                                },
+                                                "ccew_select_coins": "tether"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "cryptocurrency-elementor-widget",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "16cd50c6",
+                                            "settings": {
+                                                "editor": "<p>Quisque velit nisi, pretium ut lacinia<\/p>",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "6f373e5"
+                                                    }
+                                                ],
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1182ff79",
+                                            "settings": {
+                                                "text": "Sell Now",
+                                                "size": "xs",
+                                                "_element_width": "auto",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "2ecda3b"
+                                                    }
+                                                ],
+                                                "align_mobile": "center",
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "15",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width_mobile": "inherit"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "10c599c9",
+                                            "settings": {
+                                                "text": "Buy Now",
+                                                "size": "xs",
+                                                "selected_icon": {
+                                                    "value": "icon icon-arrow-right",
+                                                    "library": "ekiticons"
+                                                },
+                                                "icon_align": "right",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "hover_animation": "float",
+                                                "text_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width": "auto",
+                                                "_element_vertical_align": "center",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "ec62e12"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "background_color": "globals\/colors?id=a10680d",
+                                                    "button_text_color": "globals\/colors?id=accent",
+                                                    "hover_color": "globals\/colors?id=921fa16"
+                                                },
+                                                "align_mobile": "center",
+                                                "_element_width_mobile": "inherit"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "40582d3d",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "background_hover_background": "classic",
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "11f0efb"
+                                            }
+                                        ],
+                                        "__globals__": {
+                                            "background_hover_color": "globals\/colors?id=3335a43",
+                                            "background_color": "globals\/colors?id=1bb216a"
+                                        },
+                                        "animation": "fadeInDown"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4075ad1e",
+                                            "settings": {
+                                                "ccew_widget_type": "label",
+                                                "ccew_select_coins": "binance-usd",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "e144c4f"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "ccew_primary_color": "globals\/colors?id=primary",
+                                                    "ccew_secondary_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "cryptocurrency-elementor-widget",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2c88ca2e",
+                                            "settings": {
+                                                "editor": "<p>Quisque velit nisi, pretium ut lacinia<\/p>",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "6f373e5"
+                                                    }
+                                                ],
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2e56a5a5",
+                                            "settings": {
+                                                "text": "Sell Now",
+                                                "size": "xs",
+                                                "_element_width": "auto",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "2ecda3b"
+                                                    }
+                                                ],
+                                                "align_mobile": "center",
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "15",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width_mobile": "inherit"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "213d16e8",
+                                            "settings": {
+                                                "text": "Buy Now",
+                                                "size": "xs",
+                                                "selected_icon": {
+                                                    "value": "icon icon-arrow-right",
+                                                    "library": "ekiticons"
+                                                },
+                                                "icon_align": "right",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "hover_animation": "float",
+                                                "text_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width": "auto",
+                                                "_element_vertical_align": "center",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "ec62e12"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "background_color": "globals\/colors?id=a10680d",
+                                                    "button_text_color": "globals\/colors?id=accent",
+                                                    "hover_color": "globals\/colors?id=921fa16"
+                                                },
+                                                "align_mobile": "center",
+                                                "_element_width_mobile": "inherit"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2c235a5f",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "background_hover_background": "classic",
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "11f0efb"
+                                            }
+                                        ],
+                                        "__globals__": {
+                                            "background_hover_color": "globals\/colors?id=3335a43"
+                                        },
+                                        "animation": "fadeInDown"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3100bd70",
+                                            "settings": {
+                                                "ccew_widget_type": "label",
+                                                "ccew_select_coins": "polkadot",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "e144c4f"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "ccew_primary_color": "globals\/colors?id=primary",
+                                                    "ccew_secondary_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "cryptocurrency-elementor-widget",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "32ee0b7a",
+                                            "settings": {
+                                                "editor": "<p>Quisque velit nisi, pretium ut lacinia<\/p>",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "6f373e5"
+                                                    }
+                                                ],
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "b75db03",
+                                            "settings": {
+                                                "text": "Sell Now",
+                                                "size": "xs",
+                                                "_element_width": "auto",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "2ecda3b"
+                                                    }
+                                                ],
+                                                "align_mobile": "center",
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "15",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width_mobile": "inherit"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "53b7abb8",
+                                            "settings": {
+                                                "text": "Buy Now",
+                                                "size": "xs",
+                                                "selected_icon": {
+                                                    "value": "icon icon-arrow-right",
+                                                    "library": "ekiticons"
+                                                },
+                                                "icon_align": "right",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "hover_animation": "float",
+                                                "text_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width": "auto",
+                                                "_element_vertical_align": "center",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "ec62e12"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "background_color": "globals\/colors?id=a10680d",
+                                                    "button_text_color": "globals\/colors?id=accent",
+                                                    "hover_color": "globals\/colors?id=921fa16"
+                                                },
+                                                "align_mobile": "center",
+                                                "_element_width_mobile": "inherit"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "165f4615",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "90",
+                    "right": "0",
+                    "bottom": "90",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "7611320"
+                    }
+                ],
+                "height": "min-height",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_xpos": {
+                    "unit": "px",
+                    "size": 462,
+                    "sizes": []
+                },
+                "background_ypos": {
+                    "unit": "px",
+                    "size": -65,
+                    "sizes": []
+                },
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_bg_width": {
+                    "unit": "%",
+                    "size": 63,
+                    "sizes": []
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-XKD97ZY.png",
+                    "id": 1628,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "initial",
+                "background_overlay_ypos": {
+                    "unit": "px",
+                    "size": -222,
+                    "sizes": []
+                },
+                "background_overlay_attachment": "fixed",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.059999999999999997779553950749686919152736663818359375,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=primary"
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "48",
+                    "right": "0",
+                    "bottom": "48",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "31414443",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "15154cf"
+                            }
+                        ],
+                        "align": "center",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3de503a6",
+                            "settings": {
+                                "title": "How it works",
+                                "header_size": "div",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "15",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "559cd37"
+                                    }
+                                ],
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=accent",
+                                    "typography_typography": "globals\/typography?id=9f7c242"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "390c5b73",
+                            "settings": {
+                                "title": "Get started in a few minutes",
+                                "align": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "24",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "6a99577"
+                                    }
+                                ],
+                                "_animation": "fadeInDown",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=0c613fd"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3b035fef",
+                            "settings": {
+                                "gap": "wider",
+                                "structure": "30",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "417f527"
+                                    }
+                                ]
+                            },
+                            "elements": [
+                                {
+                                    "id": "358a68d7",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "a5b17bd"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1575534e",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/cryptocurrencies-market.png",
+                                                    "id": 1948,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "title_text": "Create account cryptodax",
+                                                "description_text": "Vestibulum ac diam sit amet quam vehicula elementum sed sit amet",
+                                                "position": "left",
+                                                "title_size": "h5",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": 43,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "hover_animation": "float",
+                                                "background_hover_transition": {
+                                                    "unit": "px",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "content_vertical_alignment": "middle",
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "4b42d65"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=0c613fd",
+                                                    "description_color": "globals\/colors?id=0c613fd"
+                                                },
+                                                "image_size_mobile": {
+                                                    "unit": "%",
+                                                    "size": 31,
+                                                    "sizes": []
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "ccef123",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "18c37ac"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5808d919",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/digital-key.png",
+                                                    "id": 1953,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "title_text": "Link your bank account",
+                                                "description_text": "Vestibulum ac diam sit amet quam vehicula elementum sed sit amet",
+                                                "position": "left",
+                                                "title_size": "h5",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": 43,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "hover_animation": "float",
+                                                "background_hover_transition": {
+                                                    "unit": "px",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "content_vertical_alignment": "middle",
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "4b42d65"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=0c613fd",
+                                                    "description_color": "globals\/colors?id=0c613fd"
+                                                },
+                                                "image_size_mobile": {
+                                                    "unit": "%",
+                                                    "size": 31,
+                                                    "sizes": []
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2bd1eb2f",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "813fc6c"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "291e250b",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/buy-cryptocurrencies.png",
+                                                    "id": 1952,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "title_text": "Start buying & selling",
+                                                "description_text": "Vestibulum ac diam sit amet quam vehicula elementum sed sit amet",
+                                                "position": "left",
+                                                "title_size": "h5",
+                                                "image_space": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "image_size": {
+                                                    "unit": "%",
+                                                    "size": 43,
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "hover_animation": "float",
+                                                "background_hover_transition": {
+                                                    "unit": "px",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "content_vertical_alignment": "middle",
+                                                "title_bottom_space": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "4b42d65"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=0c613fd",
+                                                    "description_color": "globals\/colors?id=0c613fd"
+                                                },
+                                                "image_size_mobile": {
+                                                    "unit": "%",
+                                                    "size": 31,
+                                                    "sizes": []
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "388b07f1",
+            "settings": {
+                "gap": "wider",
+                "structure": "20",
+                "padding": {
+                    "unit": "px",
+                    "top": "94",
+                    "right": "0",
+                    "bottom": "94",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "f1c0365"
+                    }
+                ],
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "48",
+                    "right": "0",
+                    "bottom": "48",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5b9bfa10",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 47.5,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "e1e0e6b"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "2199a83c",
+                            "settings": {
+                                "source": "external_url",
+                                "source_external_url": {
+                                    "url": "https:\/\/assets4.lottiefiles.com\/packages\/lf20_4gwqaodh.json",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "link_to": "custom",
+                                "loop": "yes",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 33,
+                                    "sizes": []
+                                },
+                                "space": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "_element_width": "auto",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": 199,
+                                    "unit": "px"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": 90,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 101,
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": 71,
+                                    "unit": "px"
+                                },
+                                "_z_index": 10,
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "22a07cf"
+                                    }
+                                ],
+                                "__dynamic__": {
+                                    "custom_link": "[elementor-tag id=\"862ffae\" name=\"lightbox\" settings=\"%7B%22type%22%3A%22video%22%2C%22video_url%22%3A%22https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXHOmBV4js_E%22%7D\"]"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "lottie",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1d2d3e27",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-VXKJBE9.png",
+                                    "id": 2293,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "-190",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "3290fbe"
+                                    }
+                                ],
+                                "hover_animation": "float",
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "-200",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "21bee005",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 52.5,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "1361e8a"
+                            }
+                        ],
+                        "align_mobile": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "6dc6f50c",
+                            "settings": {
+                                "title": "Cryptodax tutorial",
+                                "header_size": "div",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "15",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "4ed55f7"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=9f7c242",
+                                    "title_color": "globals\/colors?id=accent"
+                                },
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "204cee64",
+                            "settings": {
+                                "title": "Learn how to start in Cryptodax easier",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "7d29895"
+                                    }
+                                ],
+                                "align_mobile": "center",
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "494fe69a",
+                            "settings": {
+                                "align_mobile": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "8e4404a"
+                                    }
+                                ],
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "d49e577",
+                            "settings": {
+                                "title": "Kyc Process",
+                                "percent": {
+                                    "unit": "%",
+                                    "size": 91,
+                                    "sizes": []
+                                },
+                                "display_percentage": "hide",
+                                "inner_text": "",
+                                "bar_height": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "5c570d0"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "bar_color": "globals\/colors?id=accent",
+                                    "title_color": "globals\/colors?id=ff1a0b3",
+                                    "typography_typography": "globals\/typography?id=86ada94"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "progress",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1bcb7c93",
+                            "settings": {
+                                "title": "Crypto Deposit",
+                                "percent": {
+                                    "unit": "%",
+                                    "size": 91,
+                                    "sizes": []
+                                },
+                                "display_percentage": "hide",
+                                "inner_text": "",
+                                "bar_height": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "5c570d0"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "bar_color": "globals\/colors?id=accent",
+                                    "title_color": "globals\/colors?id=ff1a0b3",
+                                    "typography_typography": "globals\/typography?id=86ada94"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "progress",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "bfc1f68",
+                            "settings": {
+                                "title": "Withdrawal",
+                                "percent": {
+                                    "unit": "%",
+                                    "size": 91,
+                                    "sizes": []
+                                },
+                                "display_percentage": "hide",
+                                "inner_text": "",
+                                "bar_height": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "5c570d0"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "bar_color": "globals\/colors?id=accent",
+                                    "title_color": "globals\/colors?id=ff1a0b3",
+                                    "typography_typography": "globals\/typography?id=86ada94"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "progress",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2beab0e",
+                            "settings": {
+                                "text": "See tutorial",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "be63e5f"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "4a8fc1",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "94",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "fa25546"
+                    }
+                ],
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "48",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "structure": "20"
+            },
+            "elements": [
+                {
+                    "id": "51816690",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 17.788000000000000255795384873636066913604736328125,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "669a29c"
+                            }
+                        ],
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "6d5dfbe6",
+                            "settings": {
+                                "title": "Our Client & Partners",
+                                "header_size": "h4",
+                                "align_mobile": "center",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "6150607"
+                                    }
+                                ],
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "63b3e1ba",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 82.2120000000000032969182939268648624420166015625,
+                        "content_position": "center",
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "960c8c1"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "2bf61c63",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 1297,
+                                        "url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Logo-8.png"
+                                    },
+                                    {
+                                        "id": 1292,
+                                        "url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Logo-3.png"
+                                    },
+                                    {
+                                        "id": 1293,
+                                        "url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Logo-4.png"
+                                    },
+                                    {
+                                        "id": 1294,
+                                        "url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Logo-5.png"
+                                    },
+                                    {
+                                        "id": 1295,
+                                        "url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Logo-6.png"
+                                    },
+                                    {
+                                        "id": 1296,
+                                        "url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Logo-7.png"
+                                    },
+                                    {
+                                        "id": 1290,
+                                        "url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Logo-1.png"
+                                    },
+                                    {
+                                        "id": 1291,
+                                        "url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Logo-2.png"
+                                    }
+                                ],
+                                "thumbnail_size": "large",
+                                "slides_to_show": "5",
+                                "navigation": "none",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "67c29c8"
+                                    }
+                                ],
+                                "slides_to_show_tablet": "4",
+                                "slides_to_show_mobile": "2"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "3a7c5987",
+            "settings": {
+                "structure": "20",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "94",
+                    "right": "0",
+                    "bottom": "94",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "2b97672"
+                    }
+                ],
+                "__globals__": {
+                    "background_color": "globals\/colors?id=1bb216a"
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "48",
+                    "right": "0",
+                    "bottom": "48",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7c683b28",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 25,
+                        "content_position": "center",
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "bea863b"
+                            }
+                        ],
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "301e1d1",
+                            "settings": {
+                                "title": "Cryptodax powers the cryptoeconomy",
+                                "header_size": "h4",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "15",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "15bd473"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=0c613fd"
+                                },
+                                "align_tablet": "center",
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "226e7c71",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 75,
+                        "content_position": "center",
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "23638af"
+                            }
+                        ],
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "58212150",
+                            "settings": {
+                                "structure": "30",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "49af233"
+                                    }
+                                ]
+                            },
+                            "elements": [
+                                {
+                                    "id": "70812743",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "ca1a477"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "521f6fa5",
+                                            "settings": {
+                                                "ending_number": 59,
+                                                "suffix": "B",
+                                                "title": "Verified Users",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "039833e"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "number_color": "globals\/colors?id=3335a43",
+                                                    "title_color": "globals\/colors?id=0c613fd",
+                                                    "typography_number_typography": "globals\/typography?id=4d455c0",
+                                                    "typography_title_typography": "globals\/typography?id=86ada94"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "counter",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "f3065ee",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "58201f4"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5c7fdc0a",
+                                            "settings": {
+                                                "ending_number": 247,
+                                                "prefix": "$",
+                                                "suffix": "B",
+                                                "title": "Quarterly Volume Traded",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "039833e"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "number_color": "globals\/colors?id=3335a43",
+                                                    "title_color": "globals\/colors?id=0c613fd",
+                                                    "typography_number_typography": "globals\/typography?id=4d455c0",
+                                                    "typography_title_typography": "globals\/typography?id=86ada94"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "counter",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "317c937e",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "932722e"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "77d3d5f",
+                                            "settings": {
+                                                "ending_number": 287,
+                                                "prefix": "$",
+                                                "suffix": "B",
+                                                "title": "Assets on platform",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "039833e"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "number_color": "globals\/colors?id=3335a43",
+                                                    "title_color": "globals\/colors?id=0c613fd",
+                                                    "typography_number_typography": "globals\/typography?id=4d455c0",
+                                                    "typography_title_typography": "globals\/typography?id=86ada94"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "counter",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "ha_grid_number": "",
+        "ha_grid_zindex": "1000",
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_header_footer"
+    }
+}

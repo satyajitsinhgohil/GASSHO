@@ -1,0 +1,1405 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Cryptodax",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/?elementor_library=404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog Archive",
+            "screenshot": "screenshots\/blog-archive.jpg",
+            "source": "templates\/blog-archive.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/?elementor_library=blog-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive\/post_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: Posts Archive."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Product",
+            "screenshot": "screenshots\/product.jpg",
+            "source": "templates\/product.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/template-kit\/product\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Crypto Sale",
+            "screenshot": "screenshots\/crypto-sale.jpg",
+            "source": "templates\/crypto-sale.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/template-kit\/crypto-sale\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Career",
+            "screenshot": "screenshots\/career.jpg",
+            "source": "templates\/career.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/template-kit\/career\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Cryptodax - Hero Section",
+            "screenshot": "screenshots\/cryptodax-hero-section.jpg",
+            "source": "templates\/cryptodax-hero-section.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/template-kit\/cryptodax-hero-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Cryptodax - About Section",
+            "screenshot": "screenshots\/cryptodax-about-section.jpg",
+            "source": "templates\/cryptodax-about-section.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/template-kit\/cryptodax-about-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Cryptodax - Contact Section",
+            "screenshot": "screenshots\/cryptodax-contact-section.jpg",
+            "source": "templates\/cryptodax-contact-section.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/template-kit\/cryptodax-contact-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Cryptodax -Testimonial Section",
+            "screenshot": "screenshots\/cryptodax-testimonial-section.jpg",
+            "source": "templates\/cryptodax-testimonial-section.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/template-kit\/cryptodax-testimonials-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Cryptodax - Team Section",
+            "screenshot": "screenshots\/cryptodax-team-section.jpg",
+            "source": "templates\/cryptodax-team-section.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/template-kit\/cryptodax-team-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Cryptodax - Product Section",
+            "screenshot": "screenshots\/cryptodax-product-section.jpg",
+            "source": "templates\/cryptodax-product-section.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/template-kit\/cryptodax-product-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Cryptodax - FAQ Section",
+            "screenshot": "screenshots\/cryptodax-faq-section.jpg",
+            "source": "templates\/cryptodax-faq-section.json",
+            "preview_url": "https:\/\/templatekit.puriwp.com\/cryptodax\/template-kit\/cryptodax-faq-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Cryptocurrency Widgets For Elementor",
+            "version": "1.3.1",
+            "file": "cryptocurrency-widgets-for-elementor\/cryptocurrency-widgets-for-elementor.php",
+            "author": "Cool Plugins"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.6.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.5",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.1.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Image-LPUF2X7.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-LPUF2X7-800x647.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/cryptodax-hero-section.json",
+                    "name": "Cryptodax - Hero Section"
+                }
+            ],
+            "filesize": 471896,
+            "dimensions": [
+                2230,
+                1803
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-LPUF2X7"
+        },
+        {
+            "filename": "Image-4MLXK3M.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-4MLXK3M-800x471.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 206114,
+            "dimensions": [
+                1536,
+                905
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4MLXK3M"
+        },
+        {
+            "filename": "Image-AT2GRC4.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-AT2GRC4-800x602.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/cryptodax-about-section.json",
+                    "name": "Cryptodax - About Section"
+                }
+            ],
+            "filesize": 169122,
+            "dimensions": [
+                1995,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-AT2GRC4"
+        },
+        {
+            "filename": "Image-L48UZD3.jpg",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-L48UZD3-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/cryptodax-testimonial-section.json",
+                    "name": "Cryptodax -Testimonial Section"
+                }
+            ],
+            "filesize": 84085,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L48UZD3"
+        },
+        {
+            "filename": "Image-KSAYUDC.jpg",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-KSAYUDC-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/cryptodax-testimonial-section.json",
+                    "name": "Cryptodax -Testimonial Section"
+                }
+            ],
+            "filesize": 109297,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KSAYUDC"
+        },
+        {
+            "filename": "Image-P5R78L5.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-P5R78L5-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/cryptodax-testimonial-section.json",
+                    "name": "Cryptodax -Testimonial Section"
+                },
+                {
+                    "source": "templates\/cryptodax-team-section.json",
+                    "name": "Cryptodax - Team Section"
+                }
+            ],
+            "filesize": 280484,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5R78L5"
+        },
+        {
+            "filename": "Image-EMD289Q.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-EMD289Q-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/cryptodax-testimonial-section.json",
+                    "name": "Cryptodax -Testimonial Section"
+                },
+                {
+                    "source": "templates\/cryptodax-team-section.json",
+                    "name": "Cryptodax - Team Section"
+                }
+            ],
+            "filesize": 350975,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EMD289Q"
+        },
+        {
+            "filename": "Image-PMGKE22.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-PMGKE22-800x814.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 154228,
+            "dimensions": [
+                2000,
+                2035
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMGKE22"
+        },
+        {
+            "filename": "asic-miner.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/asic-miner.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 24164,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N7E56M"
+        },
+        {
+            "filename": "encrypted.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/encrypted.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 24298,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N7E56M"
+        },
+        {
+            "filename": "coin-creator.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/coin-creator.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 23721,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N7E56M"
+        },
+        {
+            "filename": "bitcoin-vs-dollar.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/bitcoin-vs-dollar.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 28116,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N7E56M"
+        },
+        {
+            "filename": "Image-XKD97ZY.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-XKD97ZY-800x534.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/crypto-sale.json",
+                    "name": "Crypto Sale"
+                }
+            ],
+            "filesize": 100521,
+            "dimensions": [
+                2000,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XKD97ZY"
+        },
+        {
+            "filename": "cryptocurrencies-market.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/cryptocurrencies-market.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/crypto-sale.json",
+                    "name": "Crypto Sale"
+                }
+            ],
+            "filesize": 23405,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N7E56M"
+        },
+        {
+            "filename": "digital-key.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/digital-key.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/crypto-sale.json",
+                    "name": "Crypto Sale"
+                }
+            ],
+            "filesize": 20133,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N7E56M"
+        },
+        {
+            "filename": "buy-cryptocurrencies.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/buy-cryptocurrencies.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/crypto-sale.json",
+                    "name": "Crypto Sale"
+                }
+            ],
+            "filesize": 27190,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-N7E56M"
+        },
+        {
+            "filename": "Crypto10.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Crypto10-800x558.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 257506,
+            "dimensions": [
+                2393,
+                1668
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MC5GJQ6"
+        },
+        {
+            "filename": "Image-4ERKHN6.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-4ERKHN6-800x508.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 278826,
+            "dimensions": [
+                2000,
+                1270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4ERKHN6"
+        },
+        {
+            "filename": "Image-K4VU8JA.jpg",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-K4VU8JA-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog-archive.json",
+                    "name": "Blog Archive"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/crypto-sale.json",
+                    "name": "Crypto Sale"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 133538,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-K4VU8JA"
+        },
+        {
+            "filename": "Image-QZ54ZTH.jpg",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-QZ54ZTH-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/cryptodax-team-section.json",
+                    "name": "Cryptodax - Team Section"
+                }
+            ],
+            "filesize": 818750,
+            "dimensions": [
+                1800,
+                2700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QZ54ZTH"
+        },
+        {
+            "filename": "Image-PBC8SPF.jpg",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-PBC8SPF-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/cryptodax-team-section.json",
+                    "name": "Cryptodax - Team Section"
+                }
+            ],
+            "filesize": 336453,
+            "dimensions": [
+                1800,
+                2700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PBC8SPF"
+        },
+        {
+            "filename": "Image-GH5V3EA.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-GH5V3EA-800x534.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 70439,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GH5V3EA"
+        },
+        {
+            "filename": "Image-2F3XCZQ.jpg",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-2F3XCZQ-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 195026,
+            "dimensions": [
+                1800,
+                2700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2F3XCZQ"
+        },
+        {
+            "filename": "Image-XH5W9BU.jpg",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-XH5W9BU-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 135336,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XH5W9BU"
+        },
+        {
+            "filename": "Image-TQLNJZP.jpg",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-TQLNJZP-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 206708,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TQLNJZP"
+        },
+        {
+            "filename": "Image-E7BA43S.jpg",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-E7BA43S-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 262684,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E7BA43S"
+        },
+        {
+            "filename": "Image-FHEEJW2.jpg",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-FHEEJW2-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 154782,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FHEEJW2"
+        },
+        {
+            "filename": "Image-ACX8QDQ.jpg",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-ACX8QDQ-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 152552,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ACX8QDQ"
+        },
+        {
+            "filename": "Image-AHE6QFC.jpg",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-AHE6QFC-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/cryptodax-team-section.json",
+                    "name": "Cryptodax - Team Section"
+                }
+            ],
+            "filesize": 120143,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AHE6QFC"
+        },
+        {
+            "filename": "Logo-8.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Logo-8.png",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/crypto-sale.json",
+                    "name": "Crypto Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 3304,
+            "dimensions": [
+                600,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-3.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/crypto-sale.json",
+                    "name": "Crypto Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 3233,
+            "dimensions": [
+                600,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-4.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/crypto-sale.json",
+                    "name": "Crypto Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 3352,
+            "dimensions": [
+                600,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-5.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/crypto-sale.json",
+                    "name": "Crypto Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 3946,
+            "dimensions": [
+                600,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-6.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Logo-6.png",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/crypto-sale.json",
+                    "name": "Crypto Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 5152,
+            "dimensions": [
+                600,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-7.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Logo-7.png",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/crypto-sale.json",
+                    "name": "Crypto Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 3205,
+            "dimensions": [
+                600,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-1.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/crypto-sale.json",
+                    "name": "Crypto Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 2840,
+            "dimensions": [
+                600,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-2.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/crypto-sale.json",
+                    "name": "Crypto Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 3653,
+            "dimensions": [
+                600,
+                170
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Image-VXKJBE9.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-VXKJBE9-800x534.png",
+            "templates": [
+                {
+                    "source": "templates\/crypto-sale.json",
+                    "name": "Crypto Sale"
+                }
+            ],
+            "filesize": 128619,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VXKJBE9"
+        },
+        {
+            "filename": "Image-LQDUAWZ.jpg",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-LQDUAWZ-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/cryptodax-team-section.json",
+                    "name": "Cryptodax - Team Section"
+                }
+            ],
+            "filesize": 210066,
+            "dimensions": [
+                1800,
+                2700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LQDUAWZ"
+        },
+        {
+            "filename": "Image-GWCNRRU.png",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-GWCNRRU-800x534.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 131416,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-GWCNRRU"
+        },
+        {
+            "filename": "Image-8LBGXMX.jpg",
+            "thumbnail_url": "http:\/\/templatekit.puriwp.com\/cryptodax\/wp-content\/uploads\/sites\/12\/2022\/04\/Image-8LBGXMX-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 107515,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8LBGXMX"
+        }
+    ]
+}

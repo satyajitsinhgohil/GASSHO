@@ -1,0 +1,448 @@
+{
+    "version": "0.4",
+    "title": "Cryptodax &#8211; FAQ Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-faq",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "8d7da30",
+            "settings": {
+                "gap": "wider",
+                "padding": {
+                    "unit": "px",
+                    "top": "94",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "7611320"
+                    }
+                ],
+                "structure": "20",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "48",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "1ce6cf84",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 33,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "15154cf"
+                            }
+                        ],
+                        "content_position": "center",
+                        "background_background": "classic",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=0c613fd"
+                        },
+                        "_inline_size_tablet": 100,
+                        "align_tablet": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "ddad18d",
+                            "settings": {
+                                "title": "Cryptodax FAQ",
+                                "header_size": "div",
+                                "align": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "15",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "949e379"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=accent",
+                                    "typography_typography": "globals\/typography?id=9f7c242"
+                                },
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7f48e873",
+                            "settings": {
+                                "title": "Frequently Asked Question",
+                                "align": "left",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "4ccb681"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=ff1a0b3"
+                                },
+                                "align_tablet": "center",
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "fcfe38f",
+                            "settings": {
+                                "placeholder": "Type your questions here...",
+                                "button_text": "Search",
+                                "button_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "92e732c"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "input_background_color": "globals\/colors?id=3335a43",
+                                    "input_border_color": "globals\/colors?id=3335a43",
+                                    "button_background_color": "globals\/colors?id=accent",
+                                    "button_text_color": "globals\/colors?id=0c613fd",
+                                    "button_background_color_hover": "globals\/colors?id=921fa16",
+                                    "button_text_color_hover": "globals\/colors?id=0c613fd",
+                                    "input_background_color_focus": "globals\/colors?id=8465d3c"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "search-form",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "565b2798",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 67,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "15154cf"
+                            }
+                        ],
+                        "content_position": "center",
+                        "align": "center",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "1b45f7ec",
+                            "settings": {
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "e684383"
+                                    }
+                                ]
+                            },
+                            "elements": [
+                                {
+                                    "id": "662f35e",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "68839f9"
+                                            }
+                                        ],
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2591536",
+                                            "settings": {
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "81944b8"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "text_color": "globals\/colors?id=text"
+                                                },
+                                                "editor": "<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Donec rutrum congue leo eget malesuada.<\/p>",
+                                                "align_mobile": "center",
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "70f943a0",
+                            "settings": {
+                                "structure": "20",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "6987680"
+                                    }
+                                ]
+                            },
+                            "elements": [
+                                {
+                                    "id": "3fdded59",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "85fea00"
+                                            }
+                                        ],
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7e05ced4",
+                                            "settings": {
+                                                "tabs": [
+                                                    {
+                                                        "tab_title": "Vestibulum ipsum",
+                                                        "tab_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                        "_id": "593b803"
+                                                    },
+                                                    {
+                                                        "tab_title": "Curabitur non nulla",
+                                                        "tab_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                        "_id": "93508e3"
+                                                    },
+                                                    {
+                                                        "tab_title": "Praesent sapien massa",
+                                                        "tab_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                        "_id": "c6b73c8"
+                                                    },
+                                                    {
+                                                        "tab_title": "Praesent sapien massa",
+                                                        "tab_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                        "_id": "d55a993"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "icon_space": {
+                                                    "unit": "px",
+                                                    "size": 18,
+                                                    "sizes": []
+                                                },
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "da75582"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "title_background": "globals\/colors?id=a10680d",
+                                                    "title_color": "globals\/colors?id=ff1a0b3",
+                                                    "tab_active_color": "globals\/colors?id=secondary",
+                                                    "title_typography_typography": "globals\/typography?id=86ada94",
+                                                    "icon_color": "globals\/colors?id=primary",
+                                                    "icon_active_color": "globals\/colors?id=secondary"
+                                                },
+                                                "selected_icon": {
+                                                    "value": "icon icon-plus",
+                                                    "library": "ekiticons"
+                                                },
+                                                "selected_active_icon": {
+                                                    "value": "icon icon-minus",
+                                                    "library": "ekiticons"
+                                                },
+                                                "icon_align": "right"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "toggle",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "e45c1ba",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "cadb458"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "dbbcfb0",
+                                            "settings": {
+                                                "tabs": [
+                                                    {
+                                                        "tab_title": "Vestibulum ipsum",
+                                                        "tab_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                        "_id": "593b803"
+                                                    },
+                                                    {
+                                                        "tab_title": "Curabitur non nulla",
+                                                        "tab_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                        "_id": "93508e3"
+                                                    },
+                                                    {
+                                                        "tab_title": "Praesent sapien massa",
+                                                        "tab_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                        "_id": "c6b73c8"
+                                                    },
+                                                    {
+                                                        "tab_title": "Praesent sapien massa",
+                                                        "tab_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                        "_id": "d55a993"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "icon_space": {
+                                                    "unit": "px",
+                                                    "size": 18,
+                                                    "sizes": []
+                                                },
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "da75582"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "title_background": "globals\/colors?id=a10680d",
+                                                    "title_color": "globals\/colors?id=ff1a0b3",
+                                                    "tab_active_color": "globals\/colors?id=secondary",
+                                                    "title_typography_typography": "globals\/typography?id=86ada94",
+                                                    "icon_color": "globals\/colors?id=primary",
+                                                    "icon_active_color": "globals\/colors?id=secondary"
+                                                },
+                                                "selected_icon": {
+                                                    "value": "icon icon-plus",
+                                                    "library": "ekiticons"
+                                                },
+                                                "selected_active_icon": {
+                                                    "value": "icon icon-minus",
+                                                    "library": "ekiticons"
+                                                },
+                                                "icon_align": "right"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "toggle",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "ha_grid_number": "",
+        "ha_grid_zindex": "1000",
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}
